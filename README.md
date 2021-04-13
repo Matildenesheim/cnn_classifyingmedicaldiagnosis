@@ -9,7 +9,7 @@ A dataset sample of National Institutes of Health Chest X-Ray data was used to t
 The sample dataset contains 5606 X- Ray images and 244 class labels. The dataset was down sampled to just 3547 X-Ray images with 2 class labels being ‘No Finding’ and ‘Infiltration’. The data was split into training and test datasets, again with 80% of the data in the training set and 20% in the test set.
 
 ### ✉️ Contact
-For further information feel free to connect with one of the authors [matildenesheim@hotmail.com](mailto:matildenesheim@hotmail.com?subject=[GitHub]%20TIBA) or on LinkedIn:
+For further information feel free to connect with one of the authors Matilde Nesheim on [matildenesheim@hotmail.com](mailto:matildenesheim@hotmail.com?subject=[GitHub]%20clinical-diagnosis-cnn) or on LinkedIn:
 
 [<img align="left" alt="matildenesheim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
