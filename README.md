@@ -11,7 +11,7 @@ The sample dataset contains 5606 X- Ray images and 244 class labels. The dataset
 ### ✉️ Contact
 For further information feel free to connect with one of the authors Matilde Nesheim on [matildenesheim@hotmail.com](mailto:matildenesheim@hotmail.com?subject=[GitHub]%20clinical-diagnosis-cnn) or on LinkedIn:
 
-[<img align="left" alt="matildenesheim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="matildenesheim | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
 <br />
 
