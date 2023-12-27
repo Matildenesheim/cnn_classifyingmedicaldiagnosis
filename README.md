@@ -2,6 +2,7 @@
 ### A Convolutional Neural Network Predicting Clinical Diagnosis in Chest X-Rays
 [![describtor - e.g. python version](https://img.shields.io/badge/Python%20Version->=3.6-blue)](www.desired_reference.com)
 
+Developed in 2019. 
 A dataset sample of National Institutes of Health Chest X-Ray data was used to test the performance of a CNN model in an image classification task
 
 <div align="center"><img src="img/cnn.png"/></div>
